@@ -1,2 +1,2 @@
-# Movie-Recommender-System
-Suggest movies to users based on a specific movie enjoyed by the user
+•	The project's objective is to develop a content-based movie recommender system that offers personalized movie recommendations. The system utilizes ata exploration, Data cleaning, Data processing, and vectorization techniques to prepare the movie dataset for analysis. To enhance user interaction and accessibility, the application is built using Streamlit.
+•	By implementing this project, users will be able to input their preferences or select a specific movie, and the content-based recommender system will generate movie recommendations based on similarities between movies' attributes. 
